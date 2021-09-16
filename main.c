@@ -1,7 +1,3 @@
-// Armand Alvarez
-// Ryan Burns
-// Sean Simonian
-// COP 4600 Spring 2018 Programming Assignment 1
 
 
 #include <stdio.h>
