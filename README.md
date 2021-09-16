@@ -1,5 +1,6 @@
-# PA1: Scheduling-Algorithms
-
+# CAT1: Scheduling-Algorithms
+# Abdul A. 
+# VIT University
 Assignment:
 
 	Implement the First-Come First-Served, preemptive Shortest Job First, and Round-Robin algorithms 
